@@ -13,6 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+Structure of Project : [https://docs.google.com/document/d/1p0TCmhAB-Z6lN5RE5f5DuorIDTK195K4V1xi_joDIl0/edit?tab=t.0]'
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
